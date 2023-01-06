@@ -1,5 +1,6 @@
 # My Bachelor's work from TUKE (Technical University of Kosice)
-**Comparison of throughput and response of network communication protocols**  
+##Comparison of throughput and response of network communication protocols (using C++)
+
 The main language is Slovak, but it's not hard to just translate the pdf into English if that's what you're interested in.  
 **Folders:**
 1. Diagrams - Folder in which all diagrams of the created programs and functions are stored;
